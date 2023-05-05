@@ -1,4 +1,4 @@
-ORIGEM
+									ORIGEM
 
 O Git foi inicialmente projetado e desenvolvido por Linus Torvalds para o desenvolvimento do kernel Linux, mas foi adotado por muitos outros projetos.
 
@@ -19,7 +19,7 @@ Quando um profissional desenvolvedor precisa começar a trabalhar em um projeto,
 Este processo é realizado pelo comando FORK.
 
 
-			PRINCIPAIS COMANDOS GIT
+								    PRINCIPAIS COMANDOS GIT
 
 INIT: este comando dá origem a um repositório novo, local ou remoto, ou reinicializa um repositório já existente;
 
@@ -37,7 +37,7 @@ MERGE: este comando serve para unir arquivos alterados ao arquivo original de um
 
 LOG: este comando permite a visualização do histórico de commits de um arquivo ou usuário, ou o acesso de uma versão específica.
 
-				GITHUB
+									    GITHUB
 GitHub é uma plataforma totalmente online onde você pode criar repositórios e hospedar neles seus projetos, colaborar com softwares open source, seguir outros(as) programadores(as) e interagir com códigos de terceiros.
 
 			     Sintaxe WINDOWS
