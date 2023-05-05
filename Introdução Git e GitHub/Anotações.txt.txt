@@ -1,0 +1,64 @@
+ORIGEM
+
+O Git foi inicialmente projetado e desenvolvido por Linus Torvalds para o desenvolvimento do kernel Linux, mas foi adotado por muitos outros projetos.
+
+GIT
+
+o GIT é um Sistema de Controle de Versões Distribuído (DVCS).
+
+Estes sistemas de controle possuem a função de registrar quaisquer alterações feitas em cima de um código, armazenando essas informações e permitindo que, caso seja necessário, um(a) programador(a) possa regredir a versões anteriores de uma aplicação de modo simples e rápido.
+
+Os REPOSITÓRIOS são os ambientes criados para armazenar seus códigos.
+
+BRANCH é o nome dado a uma versão (ramificação) do projeto. 
+
+Para unir as modificações feitas em um Branch ao código original, utilizamos o comando MERGE.
+
+Quando um profissional desenvolvedor precisa começar a trabalhar em um projeto, seu primeiro passo é copiar este repositório para a sua máquina.
+
+Este processo é realizado pelo comando FORK.
+
+
+			PRINCIPAIS COMANDOS GIT
+
+INIT: este comando dá origem a um repositório novo, local ou remoto, ou reinicializa um repositório já existente;
+
+CLONE: este comando clona o código de um repositório para sua manipulação em outro ambiente;
+
+COMMIT: este comando move os arquivos da área para um repositório local;
+
+ADD: este comando adiciona um arquivo alterado a uma área, ou seja, o prepara para ser vinculado a um commit;
+
+PUSH: este comando envia arquivos de um repositório local para um repositório remoto. No GitHub, por exemplo;
+
+PULL: ao contrário do push, este comando traz um arquivo do repositório remoto para o repositório local.
+
+MERGE: este comando serve para unir arquivos alterados ao arquivo original de um projeto. Em outras palavras, é ele quem une os branchs as commits.
+
+LOG: este comando permite a visualização do histórico de commits de um arquivo ou usuário, ou o acesso de uma versão específica.
+
+				GITHUB
+GitHub é uma plataforma totalmente online onde você pode criar repositórios e hospedar neles seus projetos, colaborar com softwares open source, seguir outros(as) programadores(as) e interagir com códigos de terceiros.
+
+			     Sintaxe WINDOWS
+
+dir  - Apresenta a lista de diretórios da pasta;
+cd/  - Navega entre as pastas, levando para base do diretório c;
+cd.. - Retroceder um nível na navegação;
+cls limpar a janela do prompt de comando; 
+TAB - Autocomplete;
+mkdir *nome* para criar pasta;
+echo > (> direciona) algo e printa este mesmo;
+del *nome da pasta* deleta tudo da pasta;
+rmdir *nome da pasta* /S /Q - remove a pasta e seus arquivos (repositório).
+
+				LINUX
+ls - Lista de diretórios da pasta;
+cd - Navega entre as pastas, levando para base do diretório c;
+cd.. - Retroceder um nível na navegação;
+clear - Limpar o terminal. (Ctrl l)
+Sudo su - Permissão, mkdir *nome* para criar pasta;
+echo > (> direciona) algo e printa este mesmo;
+rm -rf *nome da pasta* Remove pasta e seus arquivos (repositórios).
+
+
